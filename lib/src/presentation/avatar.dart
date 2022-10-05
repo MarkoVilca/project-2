@@ -7,7 +7,7 @@ List<dynamic> avatar (String url) {
       CircleAvatar(
         radius: 60.0,
         backgroundImage: NetworkImage(url)), 
-        Text("Test",
+        Text("Pedro Aguilar",
         style: TextStyle (
           color: Colors.white,
           fontSize: 18,
